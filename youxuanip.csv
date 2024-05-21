@@ -21,9 +21,9 @@ IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
 8.219.153.237,2083,2083,TRUE,JP,Asia Pacific,Tokyo,138,6.9
 47.236.125.62,2095,2095,FALSE,JP,Asia Pacific,Tokyo,80,6.9
 8.219.66.156,2087,2087,TRUE,JP,Asia Pacific,Tokyo,159,6.2
-47.88.15.127,443,443,TRUE,US,North America,San Jose,475,7.36
+104.19.75.79,443,443,TRUE,US,North America,San Jose,475,7.36
 47.251.74.226,80,80,FALSE,US,North America,Los Angeles,172,7.55
-47.251.74.226,443,443,TRUE,US,North America,Los Angeles,170,7.11
+172.64.141.180,443,443,TRUE,US,North America,Los Angeles,170,7.11
 8.209.99.166,443,443,TRUE,DE,Europe,Frankfurt,253,6.23
 8.209.67.255,443,443,TRUE,DE,Europe,Frankfurt,264,6.21
 8.211.13.91,443,443,TRUE,DE,Europe,Frankfurt,253,6.21
